@@ -1,12 +1,395 @@
-Carlton 
-Docklands 
-East Melbourne 
+Abbotsford
+Aberfeldie
+Aintree
+Airport West
+Albanvale
+Albert Park
+Albion
+Alphington
+Altona
+Altona Meadows
+Altona North
+Ardeer
+Armadale
+Arthurs Seat
+Ascot Vale
+Ashburton
+Ashwood
+Aspendale
+Aspendale Gardens
+Attwood
+Avondale Heights
+Balaclava
+Balnarring
+Balnarring Beach
+Balwyn
+Balwyn North
+Bangholme
+Baxter
+Bayswater
+Bayswater North
+Beaconsfield=
+Beaumaris
+Belgrave
+Belgrave Heights
+Belgrave South
+Bellfield
+Bentleigh
+Bentleigh East
+Berwick
+Bittern
+Black Rock
+Blackburn
+Blackburn North
+Blackburn South
+Blairgowrie
+Bonbeach
+Bonnie Brook
+Boronia
+Botanic Ridge
+Box Hill
+Box Hill North
+Box Hill South
+Braeside
+Braybrook
+Briar Hill
+Brighton
+Brighton East
+Broadmeadows
+Brooklyn
+Brunswick
+Brunswick East
+Brunswick West
+Bulleen
+Bundoora
+Burnley
+Burnside
+Burnside Heights
+Burwood
+Burwood East
+Cairnlea
+Camberwell
+Campbellfield
+Canterbury
+Capel Sound
+Carlton
+Carlton North
+Carnegie
+Caroline Springs
+Carrum
+Carrum Downs
+Caulfield
+Caulfield East
+Caulfield North
+Caulfield South
+Chadstone
+Chelsea
+Chelsea Heights
+Cheltenham
+Cheltenham East
+Cheltenham North
+Chirnside Park
+Clarinda
+Clayton
+Clayton South
+Clematis
+Clifton Hill
+Cobblebank
+Coburg
+Coburg North
+Collingwood
+Coolaroo
+Craigieburn
+Cranbourne
+Cranbourne East
+Cranbourne North
+Cranbourne South
+Cranbourne West
+Cremorne
+Crib Point
+Croydon
+Croydon Hills
+Croydon North
+Croydon South
+Dallas
+Dandenong
+Dandenong North
+Dandenong South
+Deepdene
+Deer Park
+Delahey
+Derrimut
+Diamond Creek
+Dingley
+Dingley Village
+Docklands
+Doncaster
+Doncaster East
+Donvale
+Doreen
+Doveton
+Dromana
+Eaglemont
+East Melbourne
+Edithvale
+Elsternwick
+Eltham
+Eltham North
+Elwood
+Endeavour Hills
+Epping
+Essendon
+Essendon North
+Essendon West
+Eumemmerring
+Fairfield
+Fawkner
+Ferntree Gully
+Ferny Creek
+Fieldstone
+Fitzroy
+Fitzroy North
+Flemington
+Footscray
+Forest Hill
+Frankston
+Frankston North
+Frankston South
+Fraser Rise
+Gardenvale
+Gladstone Park
+Glan Devon
+Glen Huntly
+Glen Iris
+Glen Waverley
+Glenroy
+Gowanbrae
+Grangefields
+Greensborough
+Greenvale
+Hadfield
+Hallam
+Hampton
+Hampton East
+Hampton Park
+Harkness
+Hastings
+Hawksburn
+Hawthorn
+Hawthorn East
+Heatherton
+Heathmont
+Heidelberg
+Heidelberg Heights
+Heidelberg West
+Highett
+Hillside
+HMAS Cerberus
+Hoppers Crossing
+Hughesdale
+Huntingdale
+Hurstbridge
+Ivanhoe
+Ivanhoe East
+Jacana
+Junction Village
+Kallista
+Kalorama
+Kealba
+Keilor
+Keilor Downs
+Keilor East
+Keilor Lodge
+Keilor North
+Keilor Park
 Kensington
-Flemington 
-Melbourne 
-North Melbourne 
-Parkville 
-Port Melbourne 
-Southbank 
-South Yarra - west 
+Kew
+Kew East
+Keysborough
+Kilsyth
+Kilsyth South
+Kings Park
+Kingsbury
+Kingsville
+Knoxfield
+Kooyong
+Lalor
+Langwarrin
+Langwarrin South
+Laverton
+Laverton North
+Lilydale
+Lower Plenty
+Lynbrook
+Lyndhurst
+Lysterfield
+Lysterfield South
+Macleod
+Maidstone
+Malvern
+Malvern East
+Manor Lakes
+Maribyrnong
+McCrae
+McKinnon
+Meadow Heights
+Melbourne
+Melbourne (CBD)
+Mentone
+Menzies Creek
+Mernda
+Middle Park
+Mill Park
+Mitcham
+Monbulk
+Mont Albert
+Mont Albert North
+Montmorency
+Montrose
+Moonee Ponds
+Moorabbin
+Mooroolbark
+Mordialloc
+Mornington
+Mount Dandenong
+Mount Eliza
+Mount Evelyn
+Mount Martha
+Mount Waverley
+Mulgrave
+Murrumbeena
+Narre Warren
+Narre Warren North
+Narre Warren South
+Newport
+Niddrie
+Noble Park
+Noble Park North
+North Melbourne
+North Warrandyte
+Northcote
+Notting Hill
+Nunawading
+Nutfield
+Oak Park
+Oakleigh
+Oakleigh East
+Oakleigh South
+Olinda
+Ormond
+Park Orchards
+Parkdale
+Parkville
+Pascoe Vale
+Pascoe Vale South
+Patterson Lakes
+Plenty
+Point Cook
+Port Melbourne
+Portsea
+Prahran
+Preston
+Princes Hill
+Ravenhall
+Research
+Reservoir
+Richmond
+Ringwood
+Ringwood East
+Ringwood North
+Ripponlea
+Rosanna
+Rosebud
+Rowville
+Roxburgh Park
+Rye
+Safety Beach
+Saint Helena
+Sanctuary Lakes
+Sandhurst
+Sandringham
+Sassafras
+Scoresby
+Seabrook
+Seaford
+Seaholme
+Seddon
+Selby
+Sherbrooke
+Silvan
+Skye
+Somers
+Somerton
+Somerville
+Sorrento
+South Kingsville
+South Melbourne
+South Morang
+South Yarra
+Southbank
+Spotswood
+Springvale
+Springvale South
+St Albans
+St Kilda
+St Kilda East
+St Kilda West
+Strathmore
+Strathmore Heights
+Strathtulloh
+Sunshine
+Sunshine North
+Sunshine West
+Surrey Hills
+Sydenham
+Tarneit
+Taylors Hill
+Taylors Lakes
+Tecoma
+Templestowe
+Templestowe Lower
+The Basin
+The Patch
+Thomastown
+Thornbury
+Thornhill Park
+Toorak
+Tootgarook
+Tottenham
+Travancore
+Tremont
+Tullamarine
+Tyabb
+Upper Ferntree Gully
+Upwey
+Vermont
+Vermont South
+Viewbank
+Wandin East
+Wandin North
+Wantirna
+Wantirna South
+Warrandyte
+Warrandyte South
+Warranwood
+Waterways
+Watsonia
+Watsonia North
+Wattle Glen
+Weir Views
+Werribee
+Werribee South
+West Footscray
 West Melbourne
+Westmeadows
+Wheelers Hill
+Willams Landing
+Williams Landing
+Williamstown
+Williamstown North
+Windsor
+Wonga Park
+Wyndham Vale
+Yallambie
+Yarrambat
+Yarraville
